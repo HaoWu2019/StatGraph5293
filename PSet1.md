@@ -1,7 +1,5 @@
 Problem Set 1
 ================
-<add your name here>
-1/31/2019
 
 ## Instructions
 
